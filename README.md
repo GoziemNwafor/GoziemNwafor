@@ -5,21 +5,23 @@
 I am a Systems Engineer with experience in cloud infrastructure, cybersecurity, and automation, managing technical solutions across multiple projects while ensuring compliance with industry standards. With expertise in AWS, Active Directory, Splunk, and scripting languages like Python and PowerShell, I specialize in vulnerability management, system administration, and network security.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-With a background in Information Security from the University of South Florida and a CompTIA Security+ certification, I am actively seeking opportunities in dynamic environments where I can contribute to teams that enhance security, efficiency, and digital employee experiences. 
+With a background in Information Security from the University of South Florida and a CompTIA Security Plus (SY0-701) certification, I am actively seeking opportunities in dynamic environments where I can contribute to teams that enhance security, efficiency, and digital employee experiences. 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Role Based Access Control                     | <a href="https://google.com">Detection Lab</a>|
+| Network Security Groups and Application Security Groups | <a href="https://google.com">Detection Lab</a>|
+| Azure Firewall                                | Microsoft Azure Lab|
+| Securing Azure SQL Database      | SOC Automation Lab|
+| Key Vault (Implementing Secure Data by setting up Always Encrypted)                 | Microsoft Azure Lab|
+| Create a Log Analytics Workspace, Azure Storage Account, and Data Collection Rule (DCR) | Microsoft Azure Lab|
+| Configuring Microsoft Defender for Cloud Enhanced Security Features for Servers | Microsoft Azure Lab|
+| Enable just-in-time access on VMs | Microsoft Azure Lab|
+| Microsoft Sentinel | Microsoft Azure Lab|
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
