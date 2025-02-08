@@ -12,7 +12,8 @@ With a background in Information Security from the University of South Florida a
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Manage Identity and Access                  | <a href="https://github.com/GoziemNwafor/Web-Application-Vulnerability-Scanner/tree/main">Web Application Vulnerability Scanner</a> |
+| Scan web application for vulnerabilities | <a href="https://github.com/GoziemNwafor/Web-Application-Vulnerability-Scanner/tree/main">Web Application Vulnerability Scanner</a> |
+| Manage Identity and Access      | |
 | Plan and implement security for virtual networks | Network Security Groups and Application Security Groups Lab|
 | Plan and implement security for public access to Azure resources                                | Azure Firewall Lab|
 | Secure compute, storage, and databases     |  Configuring and Securing ACR and AKS Lab|
