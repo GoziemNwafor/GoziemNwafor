@@ -13,11 +13,33 @@ With a background in Information Security from the University of South Florida a
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Scan web application for vulnerabilities | <a href="https://github.com/GoziemNwafor/Web-Application-Vulnerability-Scanner/tree/main">Web Application Vulnerability Scanner</a> |
+| Implement Microsoft Sentinel solution on Microsoft Azure | Microsoft Sentinel Lab|
+| Set up Application Load Balancer on Amazon Web Services | HTTP Load Balancer Lab|
 
 
 
 
 ## Tools
+
+### Project Management
+<div>
+    <img src="https://img.shields.io/badge/-JIRA-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Confluence-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+</div>
+
+### Automation
+<div>
+    <img src="https://img.shields.io/badge/-Selenium-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Jenkins-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Apache JMeter-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
+### Development
+<div>
+    <img src="https://img.shields.io/badge/-Python-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HTML-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CSS-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
 
 ### Network
 <div>
@@ -48,4 +70,6 @@ With a background in Information Security from the University of South Florida a
 
 ## Projects
 - <a href="https://github.com/GoziemNwafor/Web-Application-Vulnerability-Scanner/tree/main">Web Application Vulnerability Scanner</a>
+- Microsoft Sentinel Lab
+- HTTP Load Balancer Lab
   
