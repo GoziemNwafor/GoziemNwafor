@@ -13,17 +13,7 @@ With a background in Information Security from the University of South Florida a
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Scan web application for vulnerabilities | <a href="https://github.com/GoziemNwafor/Web-Application-Vulnerability-Scanner/tree/main">Web Application Vulnerability Scanner</a> |
-| Manage Identity and Access      | |
-| Plan and implement security for virtual networks | Network Security Groups and Application Security Groups Lab|
-| Plan and implement security for public access to Azure resources                                | Azure Firewall Lab|
-| Secure compute, storage, and databases     |  Configuring and Securing ACR and AKS Lab|
-| Plan and implement security for Azure SQL Database and Azure SQL Managed Instance                | Securing Azure SQL Database Lab|
-| Plan and implement security for Azure file shares| Service Endpoints and Securing Storage Lab|
-| Implement and manage enforcement of cloud governance policies | Key Vault Lab|
-| Configure and manage threat protection by using Microsoft Defender for Cloud | Log Analytics Workspace, Azure Storage Account, and Data Collection Rule Lab|
-| Configuring Microsoft Defender for Cloud Enhanced Security Features for Servers | Configuring Defender for Cloud Server Protection Lab|
-| Enable just-in-time access on VMs | Just-In-Time Lab|
-| Microsoft Sentinel | Microsoft Sentinel Lab|
+
 
 
 
