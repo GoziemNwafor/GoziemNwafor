@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/goziemnwafor"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a Systems Engineer with experience in cloud infrastructure, cybersecurity, and automation, managing technical solutions across multiple projects while ensuring compliance with industry standards. With expertise in AWS, Active Directory, Splunk, and scripting languages like Python and PowerShell, I specialize in vulnerability management, system administration, and network security.
+I am an Information Systems Engineer with experience in cloud infrastructure, cybersecurity, and automation, managing technical solutions across multiple projects while ensuring compliance with industry standards. With expertise in AWS, Active Directory, Splunk, and scripting languages like Python and PowerShell, I specialize in vulnerability management, system administration, and network security.
 
 ## Objective
 
