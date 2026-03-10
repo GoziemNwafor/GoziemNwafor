@@ -2,11 +2,11 @@
 <a href="https://linkedin.com/in/goziemnwafor"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am an Information Systems Engineer with experience in cloud infrastructure, cybersecurity, and automation, managing technical solutions across multiple projects while ensuring compliance with industry standards. With expertise in AWS, Active Directory, Splunk, and scripting languages like Python and PowerShell, I specialize in vulnerability management, system administration, and network security.
+I am an Information Systems Engineer with experience in cloud infrastructure, system administration, security analysis, and automation, managing technical solutions across multiple projects while ensuring compliance with industry standards. With expertise in Azure, Red Hat, Active Directory, Splunk, and scripting languages like Python and PowerShell, I specialize in vulnerability management, system administration, and network security.
 
 ## Objective
 
-With a background in Information Security from the University of South Florida and a CompTIA Security Plus (SY0-701) certification, I am actively seeking opportunities in dynamic environments where I can contribute to teams that enhance security, efficiency, and digital employee experiences. 
+Results-driven Information Security Engineer with 3 years of hands-on experience securing defense-grade infrastructure at Raytheon, holding an active Secret Clearance and certifications including CompTIA CySA+, Security+, and Microsoft Azure Fundamentals. I specialize in IAM, vulnerability management, SIEM/SOAR operations, and compliance with frameworks such as NIST, DISA, and FedRAMP — with a proven track record of hardening systems, automating security processes, and managing 30–40 tickets monthly across complex multi-platform environments. I am eager to leverage my expertise in provisioning and securing on-premises and cloud infrastructure, combined with my scripting skills in Python, PowerShell, and Bash, to drive impactful security outcomes and advance into a senior or cloud-focused cybersecurity role.
 
 ## Skills
 
