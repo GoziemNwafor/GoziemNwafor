@@ -12,9 +12,8 @@ Results-driven Information Security Engineer with 3 years of hands-on experience
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Configure Role-Based Access Control on Microsoft Azure | <a href="https://github.com/GoziemNwafor/Role-Based-Access-Control-Lab">Role-Based Access Control Lab</a> 
 | Scan web application for vulnerabilities | <a href="https://github.com/GoziemNwafor/Web-Application-Vulnerability-Scanner/tree/main">Web Application Vulnerability Scanner</a> |
-| Implement Microsoft Sentinel solution on Microsoft Azure | Microsoft Sentinel Lab|
-| Set up Application Load Balancer on Amazon Web Services | HTTP Load Balancer Lab|
 
 
 
@@ -69,7 +68,6 @@ Results-driven Information Security Engineer with 3 years of hands-on experience
 </div>
 
 ## Projects
+- <a href="https://github.com/GoziemNwafor/Role-Based-Access-Control-Lab">Role-Based Access Control Lab</a>
 - <a href="https://github.com/GoziemNwafor/Web-Application-Vulnerability-Scanner/tree/main">Web Application Vulnerability Scanner</a>
-- Microsoft Sentinel Lab
-- HTTP Load Balancer Lab
   
